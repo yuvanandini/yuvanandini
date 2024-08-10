@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @yuvanandini
+- 👀 I’m interested in frontend development, React.js, and building full-stack applications with the MERN stack.
+- 🌱 I’m currently learning advanced React concepts, Node.js, and MongoDB to become a proficient MERN stack developer.
+- 💞️ I’m looking to collaborate on open-source projects, particularly those involving frontend development or full-stack web applications.
+- 📫 How to reach me: You can reach me via www.linkedin.com/in/dharmada-yuva-nandini-1a941127a
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I enjoy exploring the latest web technologies and love solving challenging coding problems in my free time.
