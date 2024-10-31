@@ -5,10 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvanandini&label=Profile%20views&color=0e75b6&style=flat" alt="yuvanandini" /> </p>
 
-- 🔭 I’m currently working on **Advanced React concepts Node.js, and MongoDB to become a proficient MERN stack developer.**
-
-- 🌱 I’m currently learning **React JS**
-
 - 💬 Ask me about **Frontend development, React, and JavaScript**
 
 - 📫 How to reach me **yuvanandini07@gmail.com**
