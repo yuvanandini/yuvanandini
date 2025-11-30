@@ -44,15 +44,7 @@ Tools: Git | Postman | Docker | CI/CD | Agile/Scrum
 [![SCB-eKYC](https://img.shields.io/badge/SCB-SingPass%20eKYC-007ACC?style=for-the-badge&logo=security&logoColor=white)](https://github.com/yourusername/scb-ekyc) **Secure Credit Card Eligibility**  
 *OAuth 2.0 + encryption system for internal employee credit provisioning*
 
-## 📊 GitHub Status
-<div align="center">
-
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvanandini&show_icons=true&locale=en&layout=compact" alt="yuvanandini" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvanandini&show_icons=true&locale=en" alt="yuvanandini" /></p>
-  
-</div>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvanandini&" alt="yuvanandini" /></p>
 
 ## 🤝 Let's Connect
 <div align="center">
